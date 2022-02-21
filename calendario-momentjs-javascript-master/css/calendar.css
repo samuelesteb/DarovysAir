@@ -11,7 +11,6 @@
 }
 
 .date{
-    width: 25%;
     padding: 10px;
     border-radius: 10px;
 }
@@ -22,10 +21,28 @@
 
 .cuandv{
     text-align: center;
+    width: 30%;
+    float: left;
 }
 
 .adv{
     text-align: left;
+    width: 30%;
+    float: left;
+}
+
+.cqv{
+    text-align: right;
+    width: 30%;
+    float: left;
+    font-size: 30px;
+
+}
+
+.ccv{
+    text-align: right;
+    width: 30%;
+    float: left;
 }
 
 .root {
