@@ -124,6 +124,7 @@ body{
     font-weight: 700;
     box-shadow: var(--shadow) var(--color_shadow);
     border-radius: 6px;
+    cursor: pointer;
 }
 
 /* services */
@@ -285,6 +286,11 @@ body{
     border-radius: inherit;
     object-fit: cover;
     object-position: center top;
+}
+
+.imgItem{
+    /* border: solid 3px blue; */
+    margin: 10px auto;
 }
 
 .testimony__copy{
