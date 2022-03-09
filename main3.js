@@ -19,10 +19,10 @@ passw.addEventListener('click', cambio)
 
 
 
-let button = document.getElementById("Agenda");
+let button = document.getElementById("Vuelo");
 
 if (button) {
     button.addEventListener('click', () => {
-        alert("Tu vuelo se agendo! :)")
+        alert("Hola")
     })
 }
